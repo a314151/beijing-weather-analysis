@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.visualcrossing.com/weather-history/Beijing,China",
+    "name": "Historical weather data for Beijing, China - Visual Crossing",
+    "snippet": "Detailed weather history data for Beijing, China since 1970. Enter a location to view historical weather data charts and maps. Missing: free 1950-2024",
+    "host_name": "www.visualcrossing.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://weatherspark.com/h/y/131055/2024/Historical-Weather-during-2024-in-Beijing-China",
+    "name": "Beijing 2024 Past Weather (China)",
+    "snippet": "This report shows the past weather for Beijing, providing a weather history for 2024. It features all historical weather data series we have available. Missing: API free",
+    "host_name": "weatherspark.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://open-meteo.com/en/docs/historical-weather-api",
+    "name": "Historical Weather API | Open-Meteo.com",
+    "snippet": "You can access past weather data dating back to 1940 in 0.1 or 0.25° resolution. Data from 2017 onwards uses newer weather models with 9 km resolution. Missing: Beijing | Show results with: Beijing",
+    "host_name": "open-meteo.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/datasets/sheemazain/weather-data-2024/versions/1",
+    "name": "Weather Data 2024 - Kaggle",
+    "snippet": "The NCEI, part of NOAA, offers a wide range of climate and weather data. You can find historical weather data, global climate data, and more. NCEI Weather Data.",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://climateknowledgeportal.worldbank.org/country/china/climate-data-historical",
+    "name": "China - Historical Climate",
+    "snippet": "This page presents China's climate context for the current climatology, 1991-2020, derived from observed, historical data. Missing: API free 1950-2024",
+    "host_name": "climateknowledgeportal.worldbank.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.meteosource.com/weather-api-beijing",
+    "name": "Meteosource - Weather API for Beijing - current weather and forecast data",
+    "snippet": "Rating 4.7 (5) Weather API - Beijing. Real-time, forecast & historical accurate data. At an affordable price, you will receive accurate and reliable data for Beijing (北京 ... Missing: 1950-2024 | Show results with: 1950-2024",
+    "host_name": "www.meteosource.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.weatherapi.com/history/q/peking-450934",
+    "name": "Peking Weather History Beijing, China - WeatherAPI.com",
+    "snippet": "WeatherAPI.com makes it super easy to integrate our realtime, daily, hourly and 15 min interval weather forecast data, historical weather, marine weather, bulk ... Missing: free 1950-2024",
+    "host_name": "www.weatherapi.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://essd.copernicus.org/articles/14/3273/2022",
+    "name": "a high-resolution monthly air temperature data set for China",
+    "snippet": "An accurate spatially continuous air temperature data set is crucial for multiple applications in the environmental and ecological sciences.",
+    "host_name": "essd.copernicus.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.wunderground.com/history/weekly/cn/beijing/ZBNY",
+    "name": "Beijing, People's Republic Of China Weather History",
+    "snippet": "39.45 °N, 116.4 °E. Beijing, People's Republic of China Weather Historystar_ratehome. icon 34 °F Beijing Nanyuan Airport Station|Report. Report Station. Missing: 1950-2024 | Show results with: 1950-2024",
+    "host_name": "www.wunderground.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.worldweatheronline.com/beijing-weather-history/beijing/cn.aspx",
+    "name": "Beijing Historical Weather",
+    "snippet": "Beijing, Beijing, China - Hourly past weather, almanac for Beijing including historical temperature, wind, rain, pressure and humidity stats ... Missing: free 1950-2024",
+    "host_name": "www.worldweatheronline.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

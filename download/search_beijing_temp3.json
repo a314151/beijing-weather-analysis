@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://data.casearth.cn/dataset/5feae826819aec33049b7c8d",
+    "name": "China meteorological forcing dataset (1979-2018) - Data Sharing and Service Portal",
+    "snippet": "The China Meteorological Forcing Dataset (CMFD) is a high spatial-temporal resolution gridded near-surface meteorological dataset that was developed ...",
+    "host_name": "data.casearth.cn",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "http://wdcrre.data.ac.cn/list/temp",
+    "name": "Temperature | World Data Center for Renewable Resourees and Enviornment,Beijing,China - WDC-RRE",
+    "snippet": "This dataset is the data of summer days in China, with a spatial resolution of 0.25 °, and the time is from 1948 to 2016. The data.",
+    "host_name": "wdcrre.data.ac.cn",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.wmc-bj.net/publish/cms/view/f0050668b893445b8da9a95a490ec276.html",
+    "name": "世界气象中心(北京) CMA Global Climate Datasets shared to the world for the first time",
+    "snippet": "Datasets target users engaged in meteorological forecasting, early warning, and in-depth applications of AI. It can be accessed through channels ...\nDatasets target users engaged in meteorological forecasting, early warning, and in-depth applications of AI. It can be accessed through channels such as the English version of China Meteorological Data Network, the website of the World Meteorological Centre Beijing, and the English version of FENGYUN Satellite Data Service.？",
+    "host_name": "www.wmc-bj.net",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://essd.copernicus.org/articles/17/7251/2025/essd-17-7251-2025-discussion.html",
+    "name": "A 1 km daily high-accuracy meteorological dataset of air temperature, atmospheric pressure, relative humidity, and sunshine duration across China (1961–2021) - ESSD Copernicus",
+    "snippet": "A 1 km daily high-accuracy meteorological dataset of air temperature, atmospheric pressure, relative humidity, and sunshine duration across China (1961–2021).",
+    "host_name": "essd.copernicus.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.meteorologicaltechnologyinternational.com/news/data/china-meteorological-administration-shares-its-global-climate-datasets-internationally-for-first-time.html",
+    "name": "China Meteorological Administration shares its Global Climate Datasets internationally for first time",
+    "snippet": "The China Meteorological Administration (CMA) has released its Global Climate Datasets at the 4th China-ASEAN Meteorological Cooperation ...",
+    "host_name": "www.meteorologicaltechnologyinternational.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.visualcrossing.com/weather-history/Nantang,%20China,%20China/us/last15days",
+    "name": "Historical weather data for 中国北京 - Visual Crossing",
+    "snippet": "This weather data is for 中国北京 between the dates 2026-01-24 to 2026-02-08. The highest temperature during this period was 58.9℉ on the 2026-02-04. The lowest ...",
+    "host_name": "www.visualcrossing.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://link.springer.com/article/10.1007/s00376-009-9029-z",
+    "name": "A daily temperature dataset over China and its application in validating a RCM simulation | Advances in Atmospheric Sciences | Springer Nature Link",
+    "snippet": "This paper describes the construction of a 0.5° × 0.5° daily temperature dataset for the period of 1961–2005 over mainland China for the purpose of climate ...",
+    "host_name": "link.springer.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://climateknowledgeportal.worldbank.org/country/china/climate-data-historical",
+    "name": "China - Historical Climate",
+    "snippet": "This page presents China's climate context for the current climatology, 1991-2020, derived from observed, historical data.",
+    "host_name": "climateknowledgeportal.worldbank.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://worldweather.wmo.int/en/city.html?cityId=237",
+    "name": "Beijing - World Weather Information Service - WMO",
+    "snippet": "Month, Mean Daily Minimum Temperature (°C), Mean Daily Maximum Temperature (°C), Mean Total Precipitation (mm), Mean Number of Precipitation Days.",
+    "host_name": "worldweather.wmo.int",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://data.cma.cn/en",
+    "name": "CHINA METEOROLOGICAL DATA SERVICE CENTRE National",
+    "snippet": "CHINA METEOROLOGICAL DATA SERVICE CENTRE National Meteorological Information Centre",
+    "host_name": "data.cma.cn",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
